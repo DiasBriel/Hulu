@@ -8,7 +8,6 @@ import {
   SearchIcon,
   UserIcon,
 } from "@heroicons/react/outline";
-import Nav from "./Nav";
 
 const Header = () => {
   return (
@@ -29,8 +28,6 @@ const Header = () => {
           height={100}
         />
       </header>
-
-      <Nav />
     </div>
   );
 };
