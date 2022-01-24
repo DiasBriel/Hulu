@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hulu 2.0! :clapper:
 
-## Getting Started
+This is an amizing Next.js app developed during a Sonny Sangha’s youtube live stream and I strongly recommend the content of his channel! <br/>
+[Check the Sonny Sangha's channel clicking here](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA)!
+<br/>
+<br/>
 
-First, run the development server:
+### Description
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Hulu is a stream TV. The idea behind this app is develop an responsive and interactive catalog consuming the API from The Movie Database.<br/> <br/> [You can check the deployed app on Vercel clicking here](https://hulu-3axq7ftrd-diasbriel.vercel.app/)!
+### Layout 🎨
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+https://user-images.githubusercontent.com/86886134/150808203-5bef8764-ada9-487a-aa0e-1576afdb2879.mp4
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Content
 
-## Learn More
+<p>:white_check_mark: Next.Js</p>
+<p>:white_check_mark: Tailwindcss</p>
+<p>:white_check_mark: API</p>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Useful Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p>Next.js docs: https://nextjs.org/docs/getting-started.</p>
+<p>Tailwindcss docs: https://tailwindcss.com/docs/installation.</p>
+<p>The Movie Database: https://www.themoviedb.org</p>
+
+
+
+
